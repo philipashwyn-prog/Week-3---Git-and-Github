@@ -1,7 +1,8 @@
-body {
+body 
+{
 display: grid;
 grid-template-columns: 80% 20%;
-padding: 20em;
+padding: 10em;
 grid-template-rows: 30% 20% 40% 10%;
 grid-template-areas:
 "header header header"
@@ -9,4 +10,10 @@ grid-template-areas:
 "main aside"
 "footer footer footer"
 ;
+}
+
+nav ul
+{
+
+
 }
